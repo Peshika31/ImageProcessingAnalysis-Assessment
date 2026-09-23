@@ -3,10 +3,10 @@ A Python and OpenCV-based image processing exercise demonstrating
 different geometric transformations applied to an image.
 
 # Transformations Demonstrated
-**Euclidean** — rotation
-**Similarity** — rotation and scaling
-**Affine** — transformation using corresponding point pairs
-**Projective** — perspective transformation
+- **Euclidean** — rotation
+- **Similarity** — rotation and scaling
+- **Affine** — transformation using corresponding point pairs
+- **Projective** — perspective transformation
 
 # Tools Used
 - Python
